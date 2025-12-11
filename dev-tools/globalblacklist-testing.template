@@ -4,8 +4,8 @@
 
 ### VERSION INFORMATION #
 ###################################################
-### Version: V3.2025.12.5631
-### Updated: Wed Dec 10 22:12:24 UTC 2025
+### Version: V3.2025.12.5632
+### Updated: Thu Dec 11 10:31:05 UTC 2025
 ### Bad Referrer Count: 7104
 ### Bad Bot Count: 675
 ###################################################
@@ -8588,6 +8588,7 @@ geo $validate_client {
 # -----------------------------------------
 
 # START KNOWN BAD IP ADDRESSES ### DO NOT EDIT THIS LINE AT ALL ###
+# END KNOWN BAD IP ADDRESSES ### DO NOT EDIT THIS LINE AT ALL ###
 # END KNOWN BAD IP ADDRESSES ### DO NOT EDIT THIS LINE AT ALL ###
 # END KNOWN BAD IP ADDRESSES ### DO NOT EDIT THIS LINE AT ALL ###
 # END KNOWN BAD IP ADDRESSES ### DO NOT EDIT THIS LINE AT ALL ###
